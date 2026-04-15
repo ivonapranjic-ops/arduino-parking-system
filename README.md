@@ -31,6 +31,9 @@ Sustav koristi ultrazvučne senzore za detekciju vozila na ulazu i izlazu te pri
 Detaljan opis rada sustava dostupan je u PDF dokumentu:  
 **Indikacija slobodnih parkirnih mjesta**
 
+<img width="577" height="788" alt="Snimka zaslona (203)" src="https://github.com/user-attachments/assets/1b8c92e8-2def-4190-9184-de7034871245" />
+
+
 ## Autori
 - Ivona Pranjić  
 - Helena Zvocak
